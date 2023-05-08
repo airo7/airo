@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI, ML, and Robotics**
 
-- 📫 How to reach me **abieyum77@gmail.com**
+- 📫 How to reach me **abieyum77[at]gmail.com**
 
 - 🤝  I'm open to collaborating on **projects or research**
 
