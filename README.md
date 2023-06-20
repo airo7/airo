@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **AI, ML, and Robotics**
 
-- 📫 How to reach me **abieyum77[at]gmail.com**
+- 📫 How to reach me **abieyum77[at]gmail[dot]com**
 
 - 🤝  I'm open to collaborating on **projects or research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/in/Abyal777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abyal777" height="30" width="40" /></a>
+<a href="https://github.com/in/airo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abyal777" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abebe-sendek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abebe-sendek" height="30" width="40" /></a>
 <a href="https://medium.com/@airob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@airob" height="30" width="40" /></a>
 </p>
